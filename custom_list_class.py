@@ -23,4 +23,4 @@ class CustomList:
         pass
 
     def __len__(self):
-        pass
+        return self._size
